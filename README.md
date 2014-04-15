@@ -1,4 +1,4 @@
 Demensional_Signin
 ==================
 
-this is for go langugage leariing group sign in by two-demensional
+this is for go langugage learning group member sign in using two-demensional
